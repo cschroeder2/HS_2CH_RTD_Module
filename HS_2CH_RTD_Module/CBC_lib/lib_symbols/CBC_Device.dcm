@@ -1,0 +1,112 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Fuse
+D Fuse, generic
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_02A
+D Fuse, Blade, Low Profile, 58V, 2A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_05A
+D Fuse, Blade, Low Profile, 58V, 5A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_07.5A
+D Fuse, Blade, Low Profile, 58V, 7.5A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_10A
+D Fuse, Blade, Low Profile, 58V, 10A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_15A
+D Fuse, Blade, Low Profile, 58V, 15A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_20A
+D Fuse, Blade, Low Profile, 58V, 20A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_25A
+D Fuse, Blade, Low Profile, 58V, 25A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_30A
+D Fuse, Blade, Low Profile, 58V, 30A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_02A
+D Fuse, Blade, Mini, 58V, 2A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_03A
+D Fuse, Blade, Mini, 58V, 3A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_04A
+D Fuse, Blade, Mini, 58V, 4A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_05A
+D Fuse, Blade, Mini, 58V, 5A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_07.5A
+D Fuse, Blade, Mini, 58V, 7.5A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_10A
+D Fuse, Blade, Mini, 58V, 10A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_15A
+D Fuse, Blade, Mini, 58V, 15A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_20A
+D Fuse, Blade, Mini, 58V, 20A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_25A
+D Fuse, Blade, Mini, 58V, 25A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_30A
+D Fuse, Blade, Mini, 58V, 30A
+K Fuse
+$ENDCMP
+#
+$CMP MOSFET_STP40NF10L
+D Power MOSFET, Logic Gate, 100V, 40A, 36mOhm
+$ENDCMP
+#
+$CMP RTD-0805_F0.3tol_100R
+D TEMP SENSOR, Platinum RTD, SMD 0805, 100 Ohm, F0.3 TOL
+K PT100, RTD, temperature sensor, platinum
+$ENDCMP
+#
+$CMP RTD_Temp_Sensor
+D RTD TEMP SENSOR, Schematic symbol only
+K RTD TEMP SENSOR, PT100, PT1000
+$ENDCMP
+#
+#End Doc Library

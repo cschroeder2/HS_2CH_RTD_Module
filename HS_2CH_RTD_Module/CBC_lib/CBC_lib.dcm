@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Adafruit_ADS1115
+D 16 bit ADC, 4 channel, ADS1115
+K ADC, Adafruit, ADS1115, 1085
+$ENDCMP
+#
+$CMP DC_Supply_12V
+D 12V Power Supply Generic
+$ENDCMP
+#
+#End Doc Library
